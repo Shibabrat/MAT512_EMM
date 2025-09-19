@@ -5,8 +5,8 @@
 fig4-5.py: Sensitivity analysis of the co-existence steady state for the  
 two whale species
 
-fig5-2.py: Stability analysis of the co-existence steady state vs competition
-parameter, t: $$b_i = t a_i, i = 1, 2$$
+fig5-2.py: Stability analysis of the co-existence steady state $$(x_1^*, x_2^*)$$ vs competition
+parameter, $$t$$: $$b_i = t a_i, i = 1, 2$$.
 
 ### References
 
