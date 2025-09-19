@@ -78,16 +78,6 @@ ax.plot(t_val_vec, lambda2_vec, '-', color='k', ms=2.0, label=rf'$\lambda_2$')
 ax.grid('on')
 plt.show()
 
-# eval_species1 = species1.subs(alpha, alpha_val)
-# eval_species2 = species2.subs(alpha, alpha_val)
-# eval_deriv1 = derivative1.subs(alpha,alpha_val)
-# eval_deriv2 = derivative2.subs(alpha,alpha_val)
-# eval_sensitivity1 = eval_deriv1*(alpha_val/eval_species1)
-# eval_sensitivity2 = eval_deriv1*(alpha_val/eval_species2)
-
-# # print({eval_deriv},{eval_senstivity})
-# print("Sensitivity of the species 1 steady state population wrt alpha:",{eval_sensitivity1})
-# print("Sensitivity of the species 2 steady state population wrt alpha:",{eval_sensitivity2})
  
  
  
